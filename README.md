@@ -1,1 +1,1 @@
-ok
+First javascript tutorial
